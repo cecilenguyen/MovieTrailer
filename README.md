@@ -13,8 +13,8 @@ Use the following command in the command terminal:
 ## System Requirements
 Installation instructions can be found on their respective sites.
 
--[Python 2.7.13](https://www.python.org/downloads/) or later 
--[Git](https://git-scm.com/downloads)
+- [Python 2.7.13](https://www.python.org/downloads/) or later 
+- [Git](https://git-scm.com/downloads)
 
 ## Quick Start
 
