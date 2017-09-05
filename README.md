@@ -8,7 +8,7 @@ The files for this program may be downloaded or cloned from https://github.com/c
 
 Use the following command in the command terminal:
 
-'$ git clone https://github.com/cecilenguyen/MovieTrailer.git'
+`$ git clone https://github.com/cecilenguyen/MovieTrailer.git`
 
 ## System Requirements
 Installation instructions can be found on their respective sites.
@@ -20,11 +20,11 @@ Installation instructions can be found on their respective sites.
 
 After downloading or cloning the program files, navigate to the directory folder.
 
-'$ cd <C:\Directory\files\downloaded\to>'
+`$ cd <C:\Directory\files\downloaded\to>`
 
 Use the following command to see all files in directory:
 
-'$ ls'
+`$ ls`
 
 You should see all the following files: 
 - README.md
@@ -37,7 +37,7 @@ You should see all the following files:
 
 **Run the program using the following command:**
 
-'python entertainment_center.py'
+`python entertainment_center.py`
 
 ## Copyright and License
 
